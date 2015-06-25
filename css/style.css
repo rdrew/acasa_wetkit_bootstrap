@@ -1,0 +1,15 @@
+/**
+ * Styles for the {{ THEME NAME }} theme.
+ */
+
+
+ body {
+ 	background: blue !important;
+ }
+
+ #wb-bnr {
+  background: #114f7a;
+  background: -webkit-gradient(linear, left top, left bottom, from(#A7176E), to(#114f7a));
+  background: -webkit-linear-gradient(#A7176E, #114f7a);
+  background: linear-gradient(#A7176E, #114f7a);
+}
